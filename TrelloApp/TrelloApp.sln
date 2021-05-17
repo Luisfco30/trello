@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Input Adapter", "1. Input Adapter", "{B29E3630-3896-4F90-BB71-273868FD84AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Application Service", "2. Application Service", "{DCB276F1-3CBE-4AB6-ACAA-7878BC9005FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Domain Model", "3. Domain Model", "{7F7D282A-F316-4E96-89F8-C1C6933AA074}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Output Adapter", "4. Output Adapter", "{3C1E4F17-E515-4791-B68A-62E629205641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrelloApp.Api", "TrelloApp.Api\TrelloApp.Api.csproj", "{68282E97-0E63-4B41-9DDC-2755A649A6D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrelloApp.DomainModel", "TrelloApp.DomainModel\TrelloApp.DomainModel.csproj", "{1880161F-6984-4BF8-A72F-EB0047C506C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrelloApp.OutputAdapter", "TrelloApp.OutputAdapter\TrelloApp.OutputAdapter.csproj", "{8CF00F59-E256-43AF-A837-C6D9AC9F2B93}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "inputAdapter", "D:\Universidad-ULSA\Semestre 4\Empresariales\trello\inputAdapter\", "{671BA160-3ECB-4D32-AB11-0E4259E27DEC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61433"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Universidad-ULSA\Semestre 4\Empresariales\trello\inputAdapter\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61433\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61433"
+		Release.AspNetCompiler.PhysicalPath = "D:\Universidad-ULSA\Semestre 4\Empresariales\trello\inputAdapter\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61433\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61433"
+		SlnRelativePath = "D:\Universidad-ULSA\Semestre 4\Empresariales\trello\inputAdapter\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68282E97-0E63-4B41-9DDC-2755A649A6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68282E97-0E63-4B41-9DDC-2755A649A6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68282E97-0E63-4B41-9DDC-2755A649A6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68282E97-0E63-4B41-9DDC-2755A649A6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1880161F-6984-4BF8-A72F-EB0047C506C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1880161F-6984-4BF8-A72F-EB0047C506C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1880161F-6984-4BF8-A72F-EB0047C506C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1880161F-6984-4BF8-A72F-EB0047C506C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF00F59-E256-43AF-A837-C6D9AC9F2B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF00F59-E256-43AF-A837-C6D9AC9F2B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF00F59-E256-43AF-A837-C6D9AC9F2B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF00F59-E256-43AF-A837-C6D9AC9F2B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671BA160-3ECB-4D32-AB11-0E4259E27DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671BA160-3ECB-4D32-AB11-0E4259E27DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671BA160-3ECB-4D32-AB11-0E4259E27DEC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{671BA160-3ECB-4D32-AB11-0E4259E27DEC}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{68282E97-0E63-4B41-9DDC-2755A649A6D9} = {DCB276F1-3CBE-4AB6-ACAA-7878BC9005FA}
+		{1880161F-6984-4BF8-A72F-EB0047C506C4} = {7F7D282A-F316-4E96-89F8-C1C6933AA074}
+		{8CF00F59-E256-43AF-A837-C6D9AC9F2B93} = {3C1E4F17-E515-4791-B68A-62E629205641}
+		{671BA160-3ECB-4D32-AB11-0E4259E27DEC} = {B29E3630-3896-4F90-BB71-273868FD84AA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA3FDAA1-D8A1-45BD-90F9-598A8F624C4F}
+	EndGlobalSection
+EndGlobal

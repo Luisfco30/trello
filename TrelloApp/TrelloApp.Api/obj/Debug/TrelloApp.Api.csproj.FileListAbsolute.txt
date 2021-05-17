@@ -1,0 +1,945 @@
+D:\Fichiers\ISSC\Semestre lV\Desarrollo Aplicaciones Empresariales\Parcial 2\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.csprojAssemblyReference.cache
+D:\Fichiers\ISSC\Semestre lV\Desarrollo Aplicaciones Empresariales\Parcial 2\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.csproj.CoreCompileInputs.cache
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.DiaSymReader.Native.x86.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\TrelloApp.Api.dll.config
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\TrelloApp.Api.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\TrelloApp.Api.pdb
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\csc.exe
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\csc.exe.config
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\csc.rsp
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\csi.exe
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\csi.exe.config
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\csi.rsp
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\System.Buffers.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\System.Memory.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\System.Numerics.Vectors.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\vbc.exe
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\vbc.exe.config
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\vbc.rsp
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Antlr3.Runtime.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.Language.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Routing.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.Razor.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Localization.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Options.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Primitives.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.WebEncoders.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Net.Http.Headers.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Win32.Registry.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.Bson.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Buffers.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Collections.Immutable.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.ComponentModel.Annotations.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Memory.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Net.Http.Formatting.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Numerics.Vectors.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Reflection.Metadata.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Security.AccessControl.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Xml.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Security.Permissions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Security.Principal.Windows.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Text.Encoding.CodePages.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Text.Encodings.Web.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Threading.Tasks.Extensions.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Cors.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Helpers.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Http.Cors.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Http.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Http.WebHost.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Mvc.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Optimization.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Razor.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.Deployment.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.Razor.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\TrelloApp.DomainModel.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\TrelloApp.OutputAdapter.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\WebGrease.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\MySql.Data.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Dapper.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Zstandard.Net.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Ubiety.Dns.Core.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Renci.SshNet.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\TrelloApp.DomainModel.pdb
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\TrelloApp.OutputAdapter.pdb
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\TrelloApp.OutputAdapter.dll.config
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.Language.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Routing.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.pdb
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.CSharp.pdb
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.Razor.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Localization.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Options.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Primitives.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.WebEncoders.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Microsoft.Net.Http.Headers.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.Bson.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Buffers.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Collections.Immutable.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Memory.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Numerics.Vectors.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Reflection.Metadata.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Text.Encodings.Web.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Threading.Tasks.Extensions.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Http.Cors.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Net.Http.Formatting.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Helpers.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Http.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Http.WebHost.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Mvc.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Optimization.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.Razor.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.Deployment.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.Razor.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Antlr3.Runtime.pdb
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\MySql.Data.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Dapper.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\Renci.SshNet.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\bin\es\System.Web.Mvc.resources.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.csprojAssemblyReference.cache
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.csproj.CoreCompileInputs.cache
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.csproj.CopyComplete
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\TrelloApp.Api.dll.config
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\TrelloApp.Api.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\TrelloApp.Api.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\csc.exe
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\csc.exe.config
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\csc.rsp
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\csi.exe
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\csi.exe.config
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\csi.rsp
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\System.Buffers.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\System.Memory.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\vbc.exe
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\vbc.exe.config
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\vbc.rsp
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Win32.Primitives.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\netstandard.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.AppContext.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Collections.Concurrent.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Collections.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Collections.NonGeneric.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Collections.Specialized.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.ComponentModel.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.ComponentModel.Primitives.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Console.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Data.Common.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.Contracts.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.Debug.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.Process.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.StackTrace.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.Tools.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.TraceSource.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.Tracing.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Drawing.Primitives.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Dynamic.Runtime.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Globalization.Calendars.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Globalization.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Globalization.Extensions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.Compression.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.Compression.ZipFile.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.FileSystem.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.IsolatedStorage.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.Pipes.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Linq.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Linq.Expressions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Linq.Parallel.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Linq.Queryable.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.Http.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.NameResolution.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.NetworkInformation.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.Ping.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.Primitives.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.Requests.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.Security.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.Sockets.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.WebHeaderCollection.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.WebSockets.Client.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.WebSockets.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.ObjectModel.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Reflection.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Reflection.Extensions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Reflection.Primitives.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Resources.Reader.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Resources.ResourceManager.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Resources.Writer.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.Extensions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.Handles.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.InteropServices.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.Numerics.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.Serialization.Json.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Claims.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Csp.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Principal.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.SecureString.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Text.Encoding.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Text.Encoding.Extensions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Text.RegularExpressions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Threading.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Threading.Overlapped.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Threading.Tasks.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Threading.Thread.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Threading.ThreadPool.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Threading.Timer.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Xml.ReaderWriter.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Xml.XDocument.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Xml.XmlDocument.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Xml.XmlSerializer.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Xml.XPath.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Xml.XPath.XDocument.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Antlr3.Runtime.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Localization.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Options.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Win32.Registry.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.Bson.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Buffers.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Collections.Immutable.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.ComponentModel.Annotations.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.Pipelines.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Memory.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Numerics.Vectors.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Reflection.Metadata.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.AccessControl.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Xml.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Permissions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Principal.Windows.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Text.Encoding.CodePages.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Text.Encodings.Web.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Text.Json.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.ValueTuple.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Cors.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Helpers.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Http.Cors.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Http.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Mvc.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Optimization.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Razor.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\TrelloApp.DomainModel.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\TrelloApp.OutputAdapter.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\WebGrease.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\MySql.Data.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Dapper.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Google.Protobuf.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Zstandard.Net.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\BouncyCastle.Crypto.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Ubiety.Dns.Core.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\K4os.Compression.LZ4.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\K4os.Hash.xxHash.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\TrelloApp.DomainModel.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\TrelloApp.OutputAdapter.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\TrelloApp.OutputAdapter.dll.config
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Metadata.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyModel.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Localization.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Options.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Microsoft.Win32.Registry.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.Bson.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Buffers.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Collections.Immutable.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.IO.Pipelines.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Memory.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Numerics.Vectors.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Reflection.Metadata.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.AccessControl.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Xml.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Permissions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Security.Principal.Windows.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Text.Encoding.CodePages.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Text.Encodings.Web.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Text.Json.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.ValueTuple.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Http.Cors.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Helpers.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Http.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Mvc.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Optimization.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.Razor.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Antlr3.Runtime.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\MySql.Data.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Dapper.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Google.Protobuf.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\Google.Protobuf.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\K4os.Compression.LZ4.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\K4os.Hash.xxHash.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\bin\es\System.Web.Mvc.resources.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.csprojAssemblyReference.cache
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.csproj.CopyComplete
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.DiaSymReader.Native.x86.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\TrelloApp.Api.dll.config
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\TrelloApp.Api.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\TrelloApp.Api.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\csc.exe
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\csc.exe.config
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\csc.rsp
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\csi.exe
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\csi.exe.config
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\csi.rsp
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\System.Buffers.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\System.Memory.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\System.Numerics.Vectors.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\vbc.exe
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\vbc.exe.config
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\vbc.rsp
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\VBCSCompiler.exe
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Win32.Primitives.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\netstandard.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.AppContext.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Collections.Concurrent.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Collections.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Collections.NonGeneric.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Collections.Specialized.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.ComponentModel.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.ComponentModel.Primitives.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.ComponentModel.TypeConverter.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Console.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Data.Common.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.Contracts.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.Debug.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.Process.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.StackTrace.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.Tools.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.TraceSource.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.Tracing.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Drawing.Primitives.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Dynamic.Runtime.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Globalization.Calendars.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Globalization.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Globalization.Extensions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.Compression.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.Compression.ZipFile.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.FileSystem.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.FileSystem.Primitives.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.FileSystem.Watcher.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.IsolatedStorage.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.MemoryMappedFiles.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.Pipes.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Linq.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Linq.Expressions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Linq.Parallel.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Linq.Queryable.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.Http.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.NameResolution.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.NetworkInformation.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.Ping.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.Primitives.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.Requests.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.Security.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.Sockets.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.WebHeaderCollection.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.WebSockets.Client.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.WebSockets.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.ObjectModel.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Reflection.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Reflection.Extensions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Reflection.Primitives.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Resources.Reader.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Resources.ResourceManager.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Resources.Writer.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.Extensions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.Handles.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.InteropServices.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.Numerics.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.Serialization.Formatters.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.Serialization.Json.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.Serialization.Primitives.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.Serialization.Xml.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Claims.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Algorithms.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Csp.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Encoding.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Primitives.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Principal.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.SecureString.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Text.Encoding.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Text.Encoding.Extensions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Text.RegularExpressions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Threading.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Threading.Overlapped.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Threading.Tasks.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Threading.Tasks.Parallel.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Threading.Thread.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Threading.ThreadPool.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Threading.Timer.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Xml.ReaderWriter.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Xml.XDocument.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Xml.XmlDocument.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Xml.XmlSerializer.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Xml.XPath.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Xml.XPath.XDocument.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Antlr3.Runtime.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Metadata.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.Language.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Routing.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.Razor.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Localization.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Options.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Primitives.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.WebEncoders.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Net.Http.Headers.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Win32.Registry.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.Bson.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Buffers.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Collections.Immutable.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.ComponentModel.Annotations.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.Pipelines.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Memory.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.Http.Formatting.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Numerics.Vectors.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Reflection.Metadata.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.AccessControl.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Xml.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Permissions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Principal.Windows.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Text.Encoding.CodePages.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Text.Encodings.Web.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Text.Json.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Threading.Tasks.Extensions.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.ValueTuple.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Cors.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Helpers.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Http.Cors.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Http.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Http.WebHost.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Mvc.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Optimization.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Razor.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.Deployment.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.Razor.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\TrelloApp.DomainModel.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\TrelloApp.OutputAdapter.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\WebGrease.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\MySql.Data.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Dapper.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Google.Protobuf.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Zstandard.Net.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\K4os.Compression.LZ4.Streams.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\BouncyCastle.Crypto.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Ubiety.Dns.Core.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\K4os.Compression.LZ4.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\K4os.Hash.xxHash.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\TrelloApp.DomainModel.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\TrelloApp.OutputAdapter.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\TrelloApp.OutputAdapter.dll.config
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Metadata.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Routing.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.CSharp.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.DotNet.PlatformAbstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.DependencyModel.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Localization.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Options.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.Primitives.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Extensions.WebEncoders.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Net.Http.Headers.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Microsoft.Win32.Registry.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.Bson.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Newtonsoft.Json.Bson.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Buffers.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Collections.Immutable.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.IO.Pipelines.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Memory.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Numerics.Vectors.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Reflection.Metadata.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.AccessControl.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Cryptography.Xml.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Permissions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Security.Principal.Windows.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Text.Encoding.CodePages.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Text.Encodings.Web.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Text.Json.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Threading.Tasks.Extensions.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.ValueTuple.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Http.Cors.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Net.Http.Formatting.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Helpers.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Http.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Http.WebHost.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Mvc.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Optimization.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.Razor.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.Deployment.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\System.Web.WebPages.Razor.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Antlr3.Runtime.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\MySql.Data.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Dapper.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Google.Protobuf.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\Google.Protobuf.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\K4os.Compression.LZ4.Streams.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\K4os.Compression.LZ4.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\K4os.Hash.xxHash.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\de\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\es\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\it\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\bin\es\System.Web.Mvc.resources.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.csprojAssemblyReference.cache
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.csproj.CoreCompileInputs.cache
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.csproj.CopyComplete
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.Api\obj\Debug\TrelloApp.Api.pdb

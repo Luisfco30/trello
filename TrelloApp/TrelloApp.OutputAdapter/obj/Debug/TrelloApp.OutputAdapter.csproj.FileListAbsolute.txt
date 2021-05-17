@@ -1,0 +1,108 @@
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.OutputAdapter.dll.config
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.OutputAdapter.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.OutputAdapter.pdb
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\BouncyCastle.Crypto.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Dapper.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Google.Protobuf.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Compression.LZ4.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Hash.xxHash.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\MySql.Data.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Renci.SshNet.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Buffers.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Memory.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.DomainModel.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Ubiety.Dns.Core.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Zstandard.Net.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.DomainModel.pdb
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Dapper.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Google.Protobuf.pdb
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Google.Protobuf.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Compression.LZ4.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Hash.xxHash.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\MySql.Data.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Renci.SshNet.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Buffers.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Memory.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.csprojAssemblyReference.cache
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.csproj.CoreCompileInputs.cache
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.csproj.CopyComplete
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.dll
+D:\Desktop\DE LA SALLE\4TO. SEMESTRE\EMPRESARIAL\2DO PARCIAL\Proyecto Parcial\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.OutputAdapter.dll.config
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.OutputAdapter.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.OutputAdapter.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Dapper.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Google.Protobuf.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\MySql.Data.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Renci.SshNet.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Buffers.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Memory.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.DomainModel.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Zstandard.Net.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.DomainModel.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Dapper.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Google.Protobuf.pdb
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Google.Protobuf.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\MySql.Data.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Renci.SshNet.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Buffers.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Memory.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.csprojAssemblyReference.cache
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.csproj.CoreCompileInputs.cache
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.csproj.CopyComplete
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.dll
+C:\Users\sersa\Downloads\TrelloApp\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.OutputAdapter.dll.config
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.OutputAdapter.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.OutputAdapter.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\BouncyCastle.Crypto.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Dapper.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Google.Protobuf.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Compression.LZ4.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Hash.xxHash.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\MySql.Data.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Renci.SshNet.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Buffers.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Memory.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Numerics.Vectors.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.DomainModel.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Ubiety.Dns.Core.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Zstandard.Net.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\TrelloApp.DomainModel.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Dapper.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Google.Protobuf.pdb
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Google.Protobuf.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Compression.LZ4.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\K4os.Hash.xxHash.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\MySql.Data.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\Renci.SshNet.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Buffers.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Memory.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Numerics.Vectors.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.csprojAssemblyReference.cache
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.csproj.CoreCompileInputs.cache
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.csproj.CopyComplete
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.dll
+D:\Universidad-ULSA\Semestre 4\Empresariales\trello\TrelloApp\TrelloApp.OutputAdapter\obj\Debug\TrelloApp.OutputAdapter.pdb
